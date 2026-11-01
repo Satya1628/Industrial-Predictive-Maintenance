@@ -1,6 +1,7 @@
 # Industrial Predictive Maintenance
 
 A practical machine learning project that predicts machine failure risk from operating measurements and uses SHAP to explain model predictions.
+[Industrial Predictive Maintenance](https://industrial-predictive-maintainer.streamlit.app/)
 
 ## Project features
 - Downloads the UCI AI4I 2020 Predictive Maintenance dataset automatically.
