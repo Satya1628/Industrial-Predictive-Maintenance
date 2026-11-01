@@ -1,1 +1,1 @@
-streamlit>=1.32\npandas>=2.0\nscikit-learn>=1.3\nxgboost>=2.0\nshap>=0.45\nmatplotlib>=3.7\njoblib>=1.3\n
+streamlit>=1.32\npandas>=2.0\nscikit-learn>=1.3\nxgboost>=2.0\nshap>=0.45\nmatplotlib>=3.7\njoblib>=1.3
