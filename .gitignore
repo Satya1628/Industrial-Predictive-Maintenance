@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\ndata/*\n!data/.gitkeep\nmodels/*\n!models/.gitkeep\n.streamlit/secrets.toml\n
